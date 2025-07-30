@@ -9,13 +9,14 @@ This project investigates the fascinating intersection of computer vision and co
 |LLava|v1.5|7b|
 |LLava|v1.5|13b|
 |LLava|v1.6|7b|
-| | | |
-| | | |
-| | | |
+|InternVL | | |
+|Qwen| | |
+|BLIP| | |
 | | | |
 | | | |
 
 ### 🖼️ Optical Illusions Dataset Classification
+![Image](https://raw.githubusercontent.com/LeeKyoungGyu/mllm/main/images.png)
 
 
 | File Name | Illusion Name | Illusion Type | Main Effect | Description |
